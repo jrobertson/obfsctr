@@ -1,5 +1,6 @@
 # Introducing the Obfsctr gem
 
+    require 'obfsctr'
 
     s = 'The pin number !*95874* is secret'
 
